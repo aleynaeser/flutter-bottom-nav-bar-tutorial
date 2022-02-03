@@ -36,3 +36,19 @@
 </table>
 
 
+ <table>
+   <thead>
+      <tr>
+         <th> Style 3 </th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+        <td><img src="https://user-images.githubusercontent.com/45822686/152389085-44cea8ef-3fd6-4c09-8d6a-be6d42876bd1.png" width= 200pm></td>
+          <td><img src="https://user-images.githubusercontent.com/45822686/152388940-b0638587-1cc2-4993-8b57-daaae37e0175.png" height=300pm></td>
+         <td><img src="https://user-images.githubusercontent.com/45822686/152388986-ced84f19-757d-445d-9945-0186bc8c422a.png" height=300pm></td>
+         <td><img src="https://user-images.githubusercontent.com/45822686/152388990-e4bcf055-2f99-47ab-a2c9-6a3cc3a22ca5.png"height=300pm></td>
+      </tr>
+   </tbody>
+</table>
+
